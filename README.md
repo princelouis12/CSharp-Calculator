@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-"# CSharp-Calculator" 
-=======
 # CSharp-Calculator
 A simple console-based calculator application built in C# that performs basic arithmetic operations: addition, subtraction, multiplication, and division.
 
@@ -15,5 +12,4 @@ A simple console-based calculator application built in C# that performs basic ar
 2. Choose an arithmetic operation from the menu.
 3. View the result.
 4. Continue or exit the application based on your choice.
->>>>>>> 60dbc22b95a2a5683ac529769a8a1556a8c43e94
-"# CSharp-Calculator" 
+
