@@ -1,0 +1,41 @@
+# Ignore Visual Studio files
+.vs/
+
+# Ignore system files
+*.log
+*.tmp
+*.exe
+*.dll
+*.ldf
+*.mdf
+*.blf
+*.regtrans-ms
+
+# Ignore user-specific files
+NTUSER.DAT*
+.vscode/
+.idea/
+.ecllipse/
+.anaconda/
+.VirtualBox/
+.eclipse/
+.ipython/
+.jupyter/
+.conda/
+.cache/
+
+# Ignore Windows directories
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+My Documents/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
